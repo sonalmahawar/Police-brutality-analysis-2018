@@ -1,7 +1,5 @@
 # Police-brutality-analysis-2018
-Cases of police brutality are a sad reality for every country.Police brutality is a worldwide phenomenon including racial abuse for centuries in the USA, Britain, and continental European countries where protests have been dealt with brutal force.The developing world is infamous for police excesses during protests or otherwise.
-In India too, police forces are infamous for “Third degree”, custodial deaths, inactivity due to excessive political subordination.
-This is a serios cause for concern. Here, we have analyzed data relating to police brutality cases and have put together some rather interesting insights.
+Cases of police brutality are a sad reality for every country.Police brutality is a worldwide phenomenon including racial abuse for centuries in the USA, Britain, and continental European countries where protests have been dealt with brutal force.The developing world is infamous for police Brutality during protests or cases involving influential persons. In India, police forces are infamous for “Third degree”, custodial deaths, inactivity due to excessive political subordination. This is a serios cause for concern. Here, I have analyzed data relating to police brutality cases and have put together some rather interesting insights.
 The dashboard looks like this 
 ![Dashboard 1](https://user-images.githubusercontent.com/49113730/195125079-885945bc-850a-4d15-af83-23346e5c60e6.png)
 
